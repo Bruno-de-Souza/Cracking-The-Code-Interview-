@@ -8,4 +8,3 @@ function pairs() {
     console.log('\n=======================================================\n')
 }
 console.log(pairs());
-
