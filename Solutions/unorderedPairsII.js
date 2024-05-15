@@ -11,3 +11,6 @@ function unorderedPairsII() {
     }
 }
 unorderedPairsII();
+
+//What is the time complexity of this function and Why?
+//The time complexity of this function is O(n^2) because the function loops through the array twice.

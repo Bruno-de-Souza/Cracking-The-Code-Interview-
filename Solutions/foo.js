@@ -23,3 +23,5 @@ function foo() {
 
 foo();
 
+//What is the time complexity of this function and Why? 
+//The time complexity of this function is O(n) because the function loops through the array once.
